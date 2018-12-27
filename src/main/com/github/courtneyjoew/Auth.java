@@ -32,7 +32,7 @@ public class Auth {
         JsonNode response;
         try {
             response = HttpUtil.parse(
-                    HttpUtil.post(HttpUtil.connect("https://connect.ubi.com/ubiservices/v2/profiles/sessions"),
+                    HttpUtil.post(HttpUtil.connect("https://uplayconnect.ubi.com/ubiservices/v2/profiles/sessions"),
                                   post_body.toString(),
                                   "Ubi-AppId", RAINBOW_SIX_APPID,
                                   "Authorization", "Basic " + auth_token));
