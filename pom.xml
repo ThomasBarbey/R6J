@@ -9,7 +9,7 @@
 
     <name>Rainbow Six - Java</name> <!-- Actual project name -->
     <description>A small java wrapper for the Rainbow Six Siege API</description>
-    <url>http://github.com/JoeCourtneyW/R6J</url>
+    <url>http://github.com/ThomasBarbey/R6J</url>
 
     <licenses>
         <license>
