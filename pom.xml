@@ -27,9 +27,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/ThomasBarbey/R6J.git</connection>
-        <developerConnection>scm:git:ssh://github.com:ThomasBarbey/R6J.git</developerConnection>
-        <url>https://github.com/ThomasBarbey/R6J</url>
+        <connection>scm:git:git://github.com/JoeCourtneyW/R6J.git</connection>
+        <developerConnection>scm:git:ssh://github.com:JoeCourtneyW/R6J.git</developerConnection>
+        <url>https://github.com/JoeCourtneyW/R6J</url>
     </scm>
 
     <distributionManagement>
